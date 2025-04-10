@@ -1,0 +1,12 @@
+
+Car Details:
+
+Vehicle Registration: XYR345
+Color: Navy Blue
+Number of seats: 7
+
+Bike Details:
+
+Vehicle Registration: UQY896
+Color: Black
+Engine Capacity: 150cc
